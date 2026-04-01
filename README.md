@@ -20,10 +20,10 @@ The goal of this project is to:
 
 (Replace these with your actual screenshot links after uploading images to your GitHub repo)
 
-![Network Topology](images/image1.jpg)
+![Network Topology](images/image.jpg)
 *Network Topology in Packet Tracer*
 
-![Router Configuration](images/image2.jpg)
+![Router Configuration](images/image.jpg)
 *Router CLI Configuration Steps*
 
 ## 🚀 Step-by-Step Configuration Guide
